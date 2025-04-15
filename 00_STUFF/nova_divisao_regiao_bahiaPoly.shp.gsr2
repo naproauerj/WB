@@ -1,0 +1,16 @@
+Golden Software Cartographic Reference Information : Version 2.00
+System Type : GCS
+System Identification : Geographic (lat/lon)|NAD83 Canadian Spatial Reference System (GD:6140)
+  Comment : System Identification strings are subject to change at any time.
+System GCS Token : GEOGCS_DATUM_GDAL_6140
+System POSC/EPSG Code : 4140
+Projection Method : Unprojected Lat/Long
+Datum Name : 
+Datum GCS Token : 
+Datum Method : Molodensky
+Datum Ellipsoid Radius (meters) : 6378137
+Datum Ellipsoid Flattening : 0.00335281068118232
+Datum Prime Meridian Shift (degrees) : 0
+Datum X-Shift in meters from WGS84 : 0
+Datum Y-Shift in meters from WGS84 : 0
+Datum Z-Shift in meters from WGS84 : 0
